@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-** Daniel Araújo (Danaraujoc) ** é um ✨ Aspirante em Desenvolvimento JAVA ✨ que está em constante busca de conhecimento e aperfeiçoamento em Tecnologia.
+**Daniel Araújo (Danaraujoc)** é um ✨ Aspirante em Desenvolvimento JAVA ✨ que está em constante busca de conhecimento e aperfeiçoamento em Tecnologia.
 
 - 🔭 Atualmente estou sou Freelancer com suporte de TI
 - 🌱 Sou Graduado em Sistemas de Informação pela (PUC-Minas)
