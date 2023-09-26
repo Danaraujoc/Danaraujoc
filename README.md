@@ -9,3 +9,7 @@
 - ⚡ Uma curisosidade minha é que sou curioso e estou sempre disposto aprender algo novo,
       acredito que o que move o mundo não são as repostas, mas sim as perguntas.
 
+### Minhas Estatísticas Públicas
+
+![Danaraujoc GitHub stats](https://github-readme-stats.vercel.app/api?username=Danaraujoc&show_icons=true&theme=tokyonight)
+
