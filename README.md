@@ -2,7 +2,7 @@
 
 <img src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=740&t=st=1695761959~exp=1695762559~hmac=3eb2b43e48019dcb4a6d450915f8d2600c9b2d5a1fd15d4da11c7c1f84c0a900" min-width="350px" max-width="350px" width="350px" align="right">
 
-**Meuu nome é Daniel Araújo (Danaraujoc)** sou ✨Aspirante em Desenvolvimento JAVA✨ e tecnologias diversas, estou em constante busca de conhecimento, aprendizado e aperfeiçoamento.🖖
+**Meu nome é Daniel Araújo (Danaraujoc)** sou ✨Aspirante em Desenvolvimento JAVA✨ e tecnologias diversas, estou em constante busca de conhecimento, aprendizado e aperfeiçoamento.🖖
 
 - 🔭 Atualmente atuo como Freelancer em suporte de TI
 - 🌱 Sou Graduado em Sistemas de Informação pela (PUC-Minas)
